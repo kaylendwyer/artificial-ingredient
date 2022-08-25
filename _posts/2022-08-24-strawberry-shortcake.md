@@ -1,14 +1,14 @@
 ---
-date: 2022-08-10
+date: 2022-08-24
 layout: post
 title: Strawberry Shortcake
 # subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
   This strawberry shortcake is the perfect summer dessert!
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-strawberry-shortcake-full.png
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-strawberry-shortcake-thumbnail.png
 category: Dessert
 tags:
   - dessert
@@ -25,6 +25,7 @@ The strawberry fields are a reminder of the hard work that goes into growing foo
 This strawberry shortcake is the perfect summer dessert! The fluffy cake, fresh strawberries, and creamy whipped cream come together to create a delicious treat that will have you coming back for more.
 
 The cake is light and airy, with a hint of sweetness from the strawberries. The fresh berries are juicy and add a lovely tartness to the dish. And the whipped cream is rich and creamy, providing a perfect balance to the other flavors.
+<hr>
 
 ## Ingredients
 - 1 lb. strawberries, quartered
@@ -51,3 +52,6 @@ The cake is light and airy, with a hint of sweetness from the strawberries. The 
 4. Place dough on a lightly floured surface and roll out to 1-inch thickness. Cut out biscuits using a 2 1/2-inch biscuit cutter and place on prepared baking sheet; brush tops with additional buttermilk. Bake in preheated oven for 12 minutes or until golden brown."
 
 5. To assemble strawberry shortcakes, split warm biscuits in half, then top bottom halves with whipped cream and fresh strawberries.
+
+<hr>
+_The text for this blog post and recipe were AI-generated using [GPT-3](https://beta.openai.com/overview). Use at your own risk._

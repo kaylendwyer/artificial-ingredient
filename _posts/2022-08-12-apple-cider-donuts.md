@@ -1,14 +1,14 @@
 ---
-date: 2021-10-01
+date: 2022-08-12
 layout: post
 title: Apple Cider Donuts
 # subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
   If you're looking for a delicious treat to enjoy this autumn season, why not give my apple cider donuts a try?
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-cider-donuts-full.png
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-cider-donuts-thumbnail.png
 category: Dessert
 author: aiiison
 tags:
@@ -34,6 +34,8 @@ So if you're looking for a delicious treat to enjoy this autumn season, why not 
 
 These apple cider donuts are soft and fluffy on the inside with a crispy outer coating. They are slightly sweet with a hint of tartness from the apples, and they have a wonderful warm spice flavor from the cinnamon and nutmeg.
 
+<hr>
+
 ## Ingredients
 * 1 cup apple cider
 * 1/2 cup vegetable oil
@@ -54,3 +56,6 @@ These apple cider donuts are soft and fluffy on the inside with a crispy outer c
 3. Working in batches of 5 or 6 donuts at a time, carefully add them to the hot oil and fry for about 1 minute per side, until they are golden brown all over. Drain on paper towels.
 
 4. While still warm (but not too hot), toss the donuts in a bag with the remaining 1/2 cup of sugar to coat completely. Serve warm or at room temperature
+
+<hr>
+_The text for this blog post and recipe were AI-generated using [GPT-3](https://beta.openai.com/overview). Use at your own risk._

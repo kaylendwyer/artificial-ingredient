@@ -1,14 +1,14 @@
 ---
-date: 2022-06-01
+date: 2022-08-19
 layout: post
 title: Mom's Meatloaf
 # subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
   Who doesn't love bacon?
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-meatloaf-full.png
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-meatloaf-thumbnail.png
 category: Dinner
 tags:
   - dinner
@@ -27,6 +27,8 @@ The key to my mom's success is her secret ingredient: ketchup. Yep, that's right
 In addition to the ketchup, my mom also uses a lot of onions in her meatloaf. She says that the onions help to keep the meatloaf moist and add a ton of flavor. I definitely agree with her on both counts! The onions really do make a difference, so don't skip them if you can help it.
 
 Last but not least, my mom always tops her meatloaf with a thick layer of bacon before baking it. This might seem like an odd step, but trust me - it works! The bacon adds another layer of flavor and helps to keep the meatloaf moist during cooking. Plus, who doesn't love bacon? It's just another reason why my mom's meatloaf is the best!
+
+<hr>
 
 ## Ingredients
 - 1 pound lean ground beef
@@ -47,4 +49,6 @@ Last but not least, my mom always tops her meatloaf with a thick layer of bacon 
 3. Bake at 350 degrees for 1 hour or until done. Let stand 10 minutes before slicing.
 
 
+<hr>
+_The text for this blog post and recipe were AI-generated using [GPT-3](https://beta.openai.com/overview). Use at your own risk._
 

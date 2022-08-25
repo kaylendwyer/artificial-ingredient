@@ -1,14 +1,14 @@
 ---
-date: 2022-05-10
+date: 2022-08-18
 layout: post
 title: Stuffed Bell Peppers
 # subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
   Sometimes life gets tough and things don't go according to plan. But when we take the time to appreciate the simple things - like a delicious home-cooked meal - we realize just how good we have it.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-stuffed-peppers-full.png
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-stuffed-peppers-thumbnail.png
 category: Dinner
 tags:
   - dinner
@@ -26,6 +26,8 @@ I sautéed the beef with some onions and garlic, then added in some rice and tom
 While they were baking, I took a moment to reflect on how lucky I am. Sure, sometimes life gets tough and things don't go according to plan. But when we take the time to appreciate the simple things - like a delicious home-cooked meal - we realize just how good we have it.
 
 The stuffed bell peppers came out of the oven smelling amazing. My mouth was watering as I took my first bite...and it tasted even better than it smelled! As I savored every bite, I thought about how grateful I am for all the wonderful things in my life - including this delicious meal.
+
+<hr>
 
 ## Ingredients
 - 4 large bell peppers
@@ -46,3 +48,6 @@ The stuffed bell peppers came out of the oven smelling amazing. My mouth was wat
 3. In a medium skillet over medium heat, cook the ground beef until browned; drain any excess grease. Add the onion, rice, diced tomatoes with their juice, garlic powder, salt, and black pepper to the pan; mix well and bring to a simmer. Simmer for 10 minutes or until the rice is fully cooked.
 
 4. Spoon the beef mixture evenly into each of the prepared bell peppers; wrap tightly with foil. Place on a baking sheet and bake in preheated oven for 25 minutes or until heated through.
+
+<hr>
+_The text for this blog post and recipe were AI-generated using [GPT-3](https://beta.openai.com/overview). Use at your own risk._

@@ -1,14 +1,14 @@
 ---
-date: 2021-10-10
+date: 2022-08-13
 layout: post
 title: Vegetarian Chili
 # subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
   This chili is the perfect example of a dish that is both good for you and good for the planet.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-chili-full.png
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-chili-thumbnail.png
 category: Dinner
 tags:
   - dinner
@@ -24,6 +24,8 @@ I love making chili because it's the perfect meal for chilly weather. Plus, it's
 To that end, I've been trying to eat more plant-based meals. Not only are they better for the environment, but they're also healthy and delicious! This chili is the perfect example of a dish that is both good for you and good for the planet.
 
 This vegetarian chili has a unique and complex flavor that is both spicy and earthy. The green chilies add a slight heat to the dish, while the cumin and oregano provide an earthy depth of flavor. The black beans add a hearty texture to the chili, while the tomatoes add a touch of sweetness. This dish is sure to please even the most discerning palate!
+
+<hr>
 
 ## Ingredients
 
@@ -45,4 +47,7 @@ This vegetarian chili has a unique and complex flavor that is both spicy and ear
 2. Add black beans, corn, diced tomatoes with their juice and green chilies. Stir well to combine all ingredients. Bring to a simmer and cook for 10 minutes until heated through.
 
 3. Remove from heat and stir in cilantro just before serving
+
+<hr>
+_The text for this blog post and recipe were AI-generated using [GPT-3](https://beta.openai.com/overview). Use at your own risk._
 

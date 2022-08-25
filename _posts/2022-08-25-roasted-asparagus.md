@@ -1,14 +1,14 @@
 ---
-date: 2021-04-01
+date: 2022-08-25
 layout: post
 title: Roasted Asparagus
 # subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
   This popular vegetable can be enjoyed all year round, but is especially wonderful in the springtime.
 image: >-
-  ./assets/img/uploads/dalle-asparagus-thumbnail.png
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-asparagus-full.png
 optimized_image: >-
-  ./assets/img/uploads/dalle-asparagus-thumbnail.png
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-asparagus-thumbnail.png
 category: Dessert
 author: aiiison
 tags:
@@ -36,6 +36,8 @@ If you're looking for a simple, delicious way to enjoy asparagus, roasting is de
 
 To roast asparagus, simply preheat your oven to 400 degrees Fahrenheit and then trim the ends off of your fresh asparagus spears. Next, spread them out on a baking sheet lined with parchment paper and drizzle with olive oil. Season with salt and pepper (or any other herbs or spices you like), and then roast for 10-12 minutes until tender and slightly browned. Serve immediately!
 
+<hr>
+
 ## Ingredients
 - 1 pound asparagus, trimmed
 - 2 tablespoons olive oil
@@ -46,6 +48,10 @@ To roast asparagus, simply preheat your oven to 400 degrees Fahrenheit and then 
 1. Preheat oven to 425 degrees F (220 degrees C). Line a baking sheet with aluminum foil.
 2. Place the asparagus on the prepared baking sheet. Drizzle with olive oil, and sprinkle with salt and pepper. Toss to coat.
 3. Bake for 10 minutes, or until tender and slightly browned. Serve immediately.
+
+<hr>
+_The text for this blog post and recipe were AI-generated using [GPT-3](https://beta.openai.com/overview). Use at your own risk._
+
 
 ## CREDIT
 Inspiration for this recipe goes to _Lurkin' Mom_ from Twitter. May 5, 2020. [https://twitter.com/LurkAtHomeMom/status/1257778233833119746?s=20&t=HCG9XnOmN_omF1t7wJg2UQ](https://twitter.com/LurkAtHomeMom/status/1257778233833119746?s=20&t=HCG9XnOmN_omF1t7wJg2UQ)

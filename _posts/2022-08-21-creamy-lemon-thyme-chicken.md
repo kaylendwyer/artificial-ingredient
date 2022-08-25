@@ -1,14 +1,14 @@
 ---
-date: 2022-07-01
+date: 2022-08-21
 layout: post
 title: Creamy Lemon Thyme Chicken
 # subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
   This dish is so fragrant and flavorful, you'll be hooked at first bite!
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-lemon-chicken-full.png
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-lemon-chicken-thumbnail.png
 category: Dinner
 tags:
   - dinner
@@ -31,6 +31,8 @@ I used some of my fresh thyme to make a creamy lemon thyme chicken last night, a
 
 If you're looking for a new recipe to try, I highly recommend this one. It's easy to make, and it's sure to please even the pickiest eaters.
 
+<hr>
+
 ## Ingredients
 - 1 pound chicken breast, cubed
 - 1/4 cup all-purpose flour
@@ -51,3 +53,6 @@ If you're looking for a new recipe to try, I highly recommend this one. It's eas
  5. Pour in wine and lemon juice and bring to a simmer. Stir in thyme leaves and season with salt and pepper as needed.
  6. Transfer contents of the pan to an oven-safe dish and bake for 15 minutes or until chicken is cooked through completely.
  7. Finish by stirring in heavy cream just before serving hot over rice or pasta
+
+ <hr>
+_The text for this blog post and recipe were AI-generated using [GPT-3](https://beta.openai.com/overview). Use at your own risk._

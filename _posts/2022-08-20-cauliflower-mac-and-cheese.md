@@ -1,14 +1,14 @@
 ---
-date: 2022-06-10
+date: 2022-08-20
 layout: post
 title: Cauliflower Mac and Cheese
 # subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
   This cauliflower mac and cheese is ooey, gooey, and cheesy!
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-mac-full.png
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-mac-thumbnail.png
 category: Dinner
 tags:
   - dinner
@@ -22,6 +22,8 @@ There's something about cauliflower mac and cheese that just hits the spot. Mayb
 I remember the first time I had cauliflower mac and cheese. I was in college, and my roommate made it for dinner one night. I was skeptical at first (I mean, come on, veggies in my mac and cheese?), but she assured me that it would be delicious. And she was right. It was absolutely amazing. The sauce was rich and creamy, and the cauliflower added a nice crunch to the dish. I was hooked from that moment on.
 
 Since then, I've made cauliflower mac and cheese many times, both for myself and for others. It's always a hit, no matter who I make it for. Even people who say they don't like cauliflower will usually eat every last bite when it's smothered in cheesy goodness like this. So if you're looking for a new twist on an old classic, give this recipe a try - you won't be disappointed!
+
+<hr>
 
 ## Ingredients
 1 cup uncooked elbow macaroni
@@ -45,3 +47,6 @@ Since then, I've made cauliflower mac and cheese many times, both for myself and
  4. In the same pot you boiled the cauliflower, melt butter over medium heat. Stir in flour, salt, and pepper until smooth and bubbly; cook for 1 minute more. Slowly whisk in milk until mixture is thickened and bubbly; remove from heat and stir in 1 1/2 cups cheddar cheese until melted into sauce mixture.
 
  5. In the 9x13 inch baking dish, mix together cooked macaroni with cauliflower and sauce mixture; sprinkle with remaining 1/2 cup cheddar cheese on top as well as Parmesan cheese if desired at this point.. Bake uncovered at 350 degrees F (175 degrees C) for 20 to 30 minutes or until heated through completely before serving hot to your family or friends!
+
+ <hr>
+_The text for this blog post and recipe were AI-generated using [GPT-3](https://beta.openai.com/overview). Use at your own risk._

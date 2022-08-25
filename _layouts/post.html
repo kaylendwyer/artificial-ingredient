@@ -22,7 +22,8 @@
                 <p class="post-subtitle">{{ page.subtitle }}</p>
 
                 {% if page.image and paginator.activated == nil %}
-                    <img src="{{ page.image }}" alt="Featured image" class="post-cover">
+                    <img src="{{ page.image }}" alt="{{ page.title }}" class="post-cover">
+                    <span style="font-family:  Titillium Web, Helvetica Neue, Helvetica, sans-serif !important; font-size: 0.8rem;">All images are AI-generated with <a href="https://openai.com/dall-e-2/">DALLE-2.</a></span>
                 {% endif %}
 
                 {% include pagination-post.html progressBar=true %}
@@ -44,11 +45,11 @@
                             <li>
                                 <a href="{{ post.url | prepend: site.baseurl }}">
                                     {% if post.optimized_image %}
-                                        <img src="{{ post.optimized_image }}">
+                                        <img alt="" src="{{ post.optimized_image }}">
                                     {% elsif post.image %}
-                                        <img src="{{ post.image }}">
+                                        <img alt="" src="{{ post.image }}">
                                     {% else %}
-                                        <img src="/assets/img/off.jpg">
+                                        <img alt="" src="/assets/img/off.jpg">
                                     {% endif %}
                                     <h3>{{ post.title }}</h3>
                                 </a>

@@ -1,14 +1,14 @@
 ---
-date: 2022-07-10
+date: 2022-08-22
 layout: post
 title: Summer Blue Cheese Wedge Salad
 # subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
    The sweetness of the grapes, the crunch of the celery, the creaminess of the blue cheese, and the salty bacon all come together perfectly.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-wedge-salad-full.png
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-wedge-salad-thumbnail.png
 category: Salad
 tags:
   - salad
@@ -29,6 +29,8 @@ I started by chopping up some red grapes, celery, and bell pepper. Then I added 
 
 This salad is definitely a keeper! I'll be making it again soon.
 
+<hr>
+
 ## Ingredients
 - 1/2 head iceberg lettuce, chopped
 - 1/4 cup diced red onion
@@ -44,3 +46,6 @@ This salad is definitely a keeper! I'll be making it again soon.
 1. In a large bowl, combine the chopped iceberg lettuce, diced red onion, diced celery, diced green bell pepper, diced yellow bell pepper, and diced red grapes. 
 2. Add the blue cheese crumbles, ranch dressing, and bacon bits to the salad and mix everything together until evenly coated. 
 3. Serve immediately. Enjoy!
+
+<hr>
+_The text for this blog post and recipe were AI-generated using [GPT-3](https://beta.openai.com/overview). Use at your own risk._

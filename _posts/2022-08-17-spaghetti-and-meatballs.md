@@ -1,14 +1,14 @@
 ---
-date: 2022-05-01
+date: 2022-08-17
 layout: post
 title: Spaghetti & Meatballs
 # subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
   I was always fascinated by spaghetti and meatballs.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-spaghetti-full.png
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-spaghetti-thumbnail.png
 category: Dinner
 tags:
   - dinner
@@ -26,6 +26,8 @@ I loved watching her cook and hearing her stories about growing up in Italy duri
 My mom's spaghetti and meatballs were always political because she used to talk about how Mussolini made everyone eat boring food like rice and beans during his regime. She would say that Italians are a passionate people who love their food, so they rebelled by secretly making dishes like spaghetti and meatballs that were full of flavor.
 
 It seems like every country has a dish that becomes emblematic of its culture or history, something that represents more than just sustenance; something that tells a story about who we are as a people. For Italy, it is definitely spaghetti and meatballs.
+
+<hr>
 
 ## Ingredients
 - 1 pound ground beef
@@ -49,3 +51,6 @@ It seems like every country has a dish that becomes emblematic of its culture or
 3. Add meatballs to the skillet and cook until browned on all sides. 
 4. Pour crushed tomatoes into a 9x13 inch baking dish. 
 5. Add meatballs and sauce to the dish and stir to combine. Bake for 20 minutes or until bubbly.
+
+<hr>
+_The text for this blog post and recipe were AI-generated using [GPT-3](https://beta.openai.com/overview). Use at your own risk._

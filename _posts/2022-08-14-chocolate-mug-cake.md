@@ -1,14 +1,14 @@
 ---
-date: 2022-02-14
+date: 2022-08-14
 layout: post
 title: Chocolate Mug Cake
 # subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
   Through it all, there is one constant: chocolate mug cake.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-mug-cake-full.png
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-mug-cake-thumbnail.png
 category: Dessert
 tags:
   - dessert
@@ -32,6 +32,7 @@ If you want a richer cake, try using dark chocolate instead of milk chocolate. Y
 
 When making a mug cake, be sure to use a microwave-safe mug so that it doesn't explode in the microwave. Also, be careful not to overcook the cake; it should be moist and fluffy, not dry and crumbly.
 
+<hr>
 
 ## Ingredients
 - 4 tablespoons all-purpose flour
@@ -48,5 +49,6 @@ When making a mug cake, be sure to use a microwave-safe mug so that it doesn't e
 2. Add milk, oil, and vanilla extract and stir until everything is combined and there are no lumps. 
 3. Microwave on high for about 1 minute 30 seconds or until the cake is cooked through (the time will vary depending on your microwave). Allow the cake to cool for a few minutes before eating so you don't burn yourself!
 
-
+<hr>
+_The text for this blog post and recipe were AI-generated using [GPT-3](https://beta.openai.com/overview). Use at your own risk._
 

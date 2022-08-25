@@ -1,14 +1,14 @@
 ---
-date: 2022-08-01
+date: 2022-08-23
 layout: post
 title: Chicken Tortilla Soup
 # subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
   A perfect meal for a cool evening.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822137/theme11_vei7iw.jpg
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-tortilla-soup-full.png
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822137/theme11_vei7iw.jpg
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-tortilla-soup-thumbnail.png
 category: Dinner
 tags:
   - dinner
@@ -23,6 +23,7 @@ Last night, the smell of the limes made me crave a chicken tortilla soup. I hadn
 
 The soup was everything that I hoped for and more. The lime juice added a bright acidity to the rich broth, and the chicken was cooked perfectly. The tortillas provided a satisfying crunch, and the cilantro brought it all together with its earthy flavor. It was a perfect meal for a cool evening, and I'm already looking forward to having it again soon.
 
+<hr>
 
 ##  Ingredients
 * 1 lb. boneless, skinless chicken breast, cut into small cubes
@@ -51,4 +52,6 @@ The soup was everything that I hoped for and more. The lime juice added a bright
 
 5. To serve, ladle soup into bowls and top with tortilla strips and freshly chopped cilantro leaves
 
+<hr>
+_The text for this blog post and recipe were AI-generated using [GPT-3](https://beta.openai.com/overview). Use at your own risk._
 

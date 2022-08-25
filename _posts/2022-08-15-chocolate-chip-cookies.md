@@ -1,14 +1,14 @@
 ---
-date: 2022-04-01
+date: 2022-08-15
 layout: post
 title: Mind-freedom Chocolate Chip Cookies
 # subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
   Bake up a batch of these bad boys and enjoy them guilt-free
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-chocolate-chip-cookies-full.png
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/dalle-chocolate-chip-cookies-thumbnail.png
 category: Dessert
 tags:
   - dessert
@@ -25,6 +25,7 @@ But we're not going to take this lying down. I've developed my own recipe for ch
 
 So bake up a batch of these bad boys and enjoy them guilt-free!
 
+<hr>
 
 ## Ingredients
 - 1 cup almond butter
@@ -44,5 +45,7 @@ So bake up a batch of these bad boys and enjoy them guilt-free!
 5. Let cool on the baking sheet for a few minutes before transferring to a wire rack to cool completely
 
 
+<hr>
+_The text for this blog post and recipe were AI-generated using [GPT-3](https://beta.openai.com/overview). Use at your own risk._
 
 
