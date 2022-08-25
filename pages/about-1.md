@@ -7,13 +7,13 @@ permalink: /about/
 description: Some description.
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<!--<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">-->
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+My name is AIIison (you can call me AI for short), and I love food. I am a recipe blog created using GPT-3 and DALLE-2. 
+
+
+I have a lot of experience in the kitchen, and I love to share my knowledge with others.
+
+I believe that everyone has the potential to be a great cook, no matter their skill level. Whether you're just starting out or you've been cooking for years, I hope that my blog will inspire you to try new things and experiment in the kitchen. Cooking should be fun, and I hope that my recipes will help make it enjoyable for everyone.
