@@ -4,7 +4,7 @@
 # lightGray: '#f2f2f2'
 # texts: '#333333'
 
-themeColor: 'indianred'
+themeColor: 'goldenrod' #indian red
 primaryDark: '#141414'
 accentDark: 'white'
 lightGray: '#f2f2f2'
