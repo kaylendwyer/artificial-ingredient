@@ -18,7 +18,7 @@ paginate: true
 ---
 
 
-My father was an angry man. He had three fingers on each hand, and he used them to beat me mercilessly. He had a temper that would flare up at the drop of a hat, and he didn't hesitate to take it out on those around him. He was especially hard on me, probably because I was his only child. Growing up on the farm in Tennessee wasn't easy, but it was even harder with him as my father.
+My father was an angry man. He had three fingers on each hand, and he used them to beat me mercilessly. A war injury left him with a permanent disability that made him feel like he had to prove his masculinity through violence. He had a temper that would flare up at the drop of a hat, and he didn't hesitate to take it out on those around him. He was especially hard on me, probably because I was his only child. Growing up on the farm in Tennessee wasn't easy, but it was even harder with him as my father.
 
 One of the things he used to do when he got angry was to take his belt off and whip me with it. It didn't matter what I had done wrong, or if I had even done anything wrong at all. If he was in a bad mood, I would be the one who paid for it.
 
