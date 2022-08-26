@@ -2,6 +2,7 @@
 layout: page
 title: About
 description: A recipe blog created with GPT-3 and DALLE-2
+permalink: /about/
 ---
 
 

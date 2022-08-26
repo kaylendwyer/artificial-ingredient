@@ -38,12 +38,12 @@ two_columns_layout: true
 
 # Advanced Settings
 # Empty when working locally
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 
 # complete when loading on github
-baseurl: "/artificial-ingredient" # the subpath of your site, e.g. /blog
-url: "https://kaylendwyer.github.io" # the base hostname & protocol for your site
+# baseurl: "/artificial-ingredient" # the subpath of your site, e.g. /blog
+# url: "https://kaylendwyer.github.io" # the base hostname & protocol for your site
 
 
 
