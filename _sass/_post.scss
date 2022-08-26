@@ -51,7 +51,7 @@
   figcaption,
   img + em {
     display: block;
-    color: darken($lightGray, 30%);
+    /*color: darken($lightGray, 30%);*/
     text-align: center;
     @include mainFont(300);
   }
@@ -113,7 +113,7 @@
     @include mainFont(300);
     font-size: rem(13px);
     letter-spacing: 0;
-    color: darken($lightGray, 30%);
+    /*color: darken($lightGray, 30%);*/
     margin: 0 auto;
 
     @include media(">=sm") {
@@ -376,10 +376,10 @@
 
         &:hover {
           color: rgba(0, 0, 0, 0.5);
-          img {
+          /*img {
             -webkit-filter: grayscale(100%);
             filter: grayscale(100%);
-          }
+          }*/
         }
       }
     }

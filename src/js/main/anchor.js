@@ -2,7 +2,7 @@
   var headings = document.querySelectorAll('h1[id],h2[id],h3[id],h4[id],h5[id],h6[id]');
   for (var i = 0; i < headings.length; i++) {
     var img = document.createElement('img');
-    img.setAttribute('src', '/assets/img/link-symbol.svg');
+    img.setAttribute('src', 'https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/4c5b6c901be43aec183463e3efba8a65b9db9f35/assets/img/link-symbol.svg');
 
     var a = document.createElement('a');
     a.setAttribute('href', '#' + headings[i].getAttribute('id'));
