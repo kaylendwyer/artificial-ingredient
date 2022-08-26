@@ -16,7 +16,9 @@
     {% if page.image %}
         {% assign image = page.image %}
     {% else %}
-        {% assign image = "/assets/img/blog-image.png" | prepend: site.baseurl | prepend: site.url %}
+        <!--{% assign image = "/assets/img/blog-image.png" | prepend: site.baseurl | prepend: site.url %}-->
+        {% assign image = "https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/blog-image.png" %}
+        
     {% endif %}
 
     {% assign description = '' %}
