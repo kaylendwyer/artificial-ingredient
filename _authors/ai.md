@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: https://github.com/kaylendwyer/artificial-ingredient/blob/master/assets/img/uploads/profile.png
+photo: https://raw.githubusercontent.com/kaylendwyer/artificial-ingredient/master/assets/img/uploads/profile.png
 name: aiiison
 display_name: AIIison
 # position: 
